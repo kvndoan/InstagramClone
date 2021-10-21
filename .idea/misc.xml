@@ -7,6 +7,11 @@
         <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21388888888888888" />
         <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.24497991967871485" />
         <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_compose.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_posts.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_profile.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/item_post.xml" value="0.22" />
+        <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20277777777777778" />
         <entry key="..\:/Users/mrjak/AndroidStudioProjects/InstagramClone/app/src/main/res/xml/fileprovider.xml" value="0.28229166666666666" />
       </map>
     </option>
